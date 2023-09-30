@@ -6,7 +6,7 @@ The Apple Vision Pro Website is a project showcasing my skills in web developmen
 
 ## Features
 
-- **GSAP Animation:** Utilizes GSAP for smooth and engaging animations throughout the website.
+- GSAP Animation: Utilizes GSAP for smooth and engaging animations throughout the website.
 - **Smooth Scrolling:** Implements a custom smooth scrolling feature for seamless navigation.
 - **Responsive Design:** Ensures a consistent and visually appealing experience across various devices.
 
@@ -31,11 +31,11 @@ Visit the [Apple Vision Pro Website](https://applevisionprobykarthik.netlify.app
 
 
 
-**## Usage**
+## Usage
 1. Open the website in a modern web browser.
 2. Explore the different sections to see the animations and experience the smooth scrolling.
 
-**## Contributing**
+## Contributing
 If you'd like to contribute to this project, please follow the standard GitHub flow:
 1. Fork the repo.
 2. Create a branch.
@@ -43,8 +43,8 @@ If you'd like to contribute to this project, please follow the standard GitHub f
 4. Submit a pull request.
 
 
-**## Acknowledgments**
+## Acknowledgments
    sheriyans coding school
 
-**## Contact**
+## Contact
 For inquiries, reach out to [bearebel8@gmail.com].
