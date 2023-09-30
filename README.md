@@ -1,5 +1,4 @@
 # Apple-vison-pro-website-by-karthik
-# Apple Vision Pro Website
 
 ## Overview
 
@@ -28,4 +27,24 @@ Visit the [Apple Vision Pro Website](https://applevisionprobykarthik.netlify.app
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/openhiemer/Apple-vison-pro-website-by-karthik.git
+
+
+
+**## Usage**
+1. Open the website in a modern web browser.
+2. Explore the different sections to see the animations and experience the smooth scrolling.
+
+**## Contributing**
+If you'd like to contribute to this project, please follow the standard GitHub flow:
+1. Fork the repo.
+2. Create a branch.
+3. Make changes.
+4. Submit a pull request.
+
+
+**## Acknowledgments**
+   sheriyans coding school
+
+**## Contact**
+For inquiries, reach out to [bearebel8@gmail.com].
